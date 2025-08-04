@@ -21,6 +21,7 @@
     height: 400px;
     overflow: hidden;
     border-radius: 10px;
+    gap: 2px;
 }
 
 .caption{
