@@ -3,6 +3,7 @@ import './Campus.css'
 import campus1 from '../../assets/campus1.jpg'
 import campus2 from '../../assets/campus2.jpg'
 import campus3 from '../../assets/campus3.jpg'
+import campus4 from '../../assets/campus4.jpg'
 
 const Campus = () => {
   return (
@@ -19,6 +20,9 @@ const Campus = () => {
                         </div>
                     <div className="photograph">
                         <img src={campus3} alt=""/>
+                        </div>
+                        <div className="photograph">
+                        <img src={campus4} alt=""/>
                         </div>
                 </div>
                 <button className='btn dark-btn'> See more here </button>
